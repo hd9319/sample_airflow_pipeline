@@ -105,5 +105,12 @@ venv.bak/
 
 # data
 *.csv
+logs/
 
 .DS_Store
+
+# db
+*.db
+
+# config
+*.cfg

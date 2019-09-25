@@ -31,7 +31,7 @@ default_headers = {
     'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
 }
 
-def download_data(csv_path, urls=urls):
+def download_wheels_data(csv_path, urls=urls):
 	print('Downloading Data.')
 
 	data = []
